@@ -1,0 +1,9 @@
+.DS_Store
+./currency-exchange-service/Notneeded/*
+./currency-conversion-service/Notneeded/*
+./netflix-eureka-naming-server/Notneeded/*
+./netflix-eureka-naming-server/Notneeded/*
+./netflix-zuul-api-gateway-server/Notneeded/*
+./limits-service/Notneeded/*
+./spring-cloud-config-server/Notneeded/*
+
